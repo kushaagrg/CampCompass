@@ -10,13 +10,13 @@ Interactive Maps: Visualize campground locations and nearby points of interest.
 
 Technologies Used
 
-Node.js: Powers the backend, handling server-side logic and requests.
-EJS: Templating engine for generating dynamic HTML content.
-JavaScript: Enhances frontend interactivity and user experience.
-CSS: Styles the application for an intuitive and visually appealing interface.
-MongoDB: NoSQL database for efficient storage and retrieval of campground data and user reviews.
-Cloudinary: Cloud-based image management for storing and serving campground photos.
-Mapbox: Integrates interactive maps to provide geographical context and navigation assistance.
+-> Node.js: Powers the backend, handling server-side logic and requests.
+-> EJS: Templating engine for generating dynamic HTML content.
+-> JavaScript: Enhances frontend interactivity and user experience.
+-> CSS: Styles the application for an intuitive and visually appealing interface.
+-> MongoDB: NoSQL database for efficient storage and retrieval of campground data and user reviews.
+-> Cloudinary: Cloud-based image management for storing and serving campground photos.
+-> Mapbox: Integrates interactive maps to provide geographical context and navigation assistance.
 
 #How to Run the Project
 
